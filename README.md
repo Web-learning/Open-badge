@@ -3,4 +3,6 @@
 [![stars - Open-badge](https://img.shields.io/github/stars/Web-learning/Open-badge?style=social)](https://github.com/Web-learning/Open-badge)
 [![forks - Open-badge](https://img.shields.io/github/forks/Web-learning/Open-badge?style=social)](https://github.com/Web-learning/Open-badge)
 
-Well done. You have started working in the open. You have mastered the etherpad and made significant contributions to the discussion
+## Weblearning has awarded you an open badge. 
+This open bade recognises and appreciates your talent and skills in online meetings.
+You have mastered the etherpad and made significant contributions to the discussion.
