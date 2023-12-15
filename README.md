@@ -4,5 +4,7 @@
 [![forks - Open-badge](https://img.shields.io/github/forks/Web-learning/Open-badge?style=social)](https://github.com/Web-learning/Open-badge)
 
 ## Weblearning has awarded you an open badge. 
-This open bade recognises and appreciates your talent and skills in online meetings.
-You have mastered the etherpad and made significant contributions to the discussion.
+This Open Badge is intended to recognise and appreciate your talent and skills in online meetings.
+You have 
+* demonstrated etherpad skills and
+* made significant written and verbal contributions to the proposed workshop.
