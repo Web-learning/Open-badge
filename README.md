@@ -1,2 +1,2 @@
 # Open-badge
-A place on git hub from where I can  award badges to recognize effort or acknowledge work
+Well done. You have started working in the open. You have mastered the etherpad and made significant contributions to the discussion
