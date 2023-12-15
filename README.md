@@ -8,3 +8,6 @@ This Open Badge is intended to recognise and appreciate your talent and skills i
 You have 
 * demonstrated etherpad skills and
 * made significant written and verbal contributions to the proposed workshop.
+
+## Credit
+https://michaelcurrin.github.io/badge-generator/#/
